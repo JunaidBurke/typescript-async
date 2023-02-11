@@ -28,7 +28,7 @@
     "eslint-plugin-import": "^2.18.2",
     "eslint-plugin-prettier": "^3.1.1",
     "extract-text-webpack-plugin": "^4.0.0-beta.0",
-    "json-server": "^0.15.1",
+    "json-server": "^0.17.1",
     "json-server-reset": "^1.2.0",
     "mini-css-extract-plugin": "^0.8.0",
     "sass": "^1.44.0",
